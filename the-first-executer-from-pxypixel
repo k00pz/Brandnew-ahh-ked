@@ -6,7 +6,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 local Player = game.Players.LocalPlayer
 
 function CorrectKeyAndLoadTheScript()
-         loadstring(game:HttpGet("https://raw.githubusercontent.com/k00pz/Skibidi-toilet/main/Pyxpixel-First-Executer"))()  --This Where You Put The Script That Will Be Loaded If The Key Is Correct
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/k00pz/Fsploitahhh/main/Kedbackyou"))()  --This Where You Put The Script That Will Be Loaded If The Key Is Correct
 end
 
 OrionLib:MakeNotification({
